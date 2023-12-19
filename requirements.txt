@@ -1,0 +1,5 @@
+autopep8==2.0.4
+numpy==1.26.2
+pipreqs==0.4.13
+rich==13.7.0
+seaborn==0.13.0
